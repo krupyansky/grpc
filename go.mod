@@ -1,4 +1,4 @@
-module example.com/greetings
+module grpc
 
 go 1.16
 
